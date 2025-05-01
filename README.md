@@ -1,4 +1,5 @@
 Real-Time Digital News Crawling, Sentiment Analysis, and Alert Mechanism for Government Authorities 
+
 Governments have a permanent obligation to monitor public sentiment, predict crises, and react to emerging problems, requiring access to large amounts of digital news content.
 The system provides Real-Time Digital News Crawling, Sentiment Analysis, and Alert Mechanism to help governments cope with this challenge.
 A high-performance web crawler constantly collects news stories from various sources, including news sites, social media, and blogs, to provide a comprehensive view of public opinion.
